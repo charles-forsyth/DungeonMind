@@ -1,0 +1,5 @@
+{
+  "name": "DungeonMind: AI Auto-Battler",
+  "description": "A top-down tactical RPG where you can play manually or let the Gemini AI control your party in generated dungeon encounters.",
+  "requestFramePermissions": []
+}
